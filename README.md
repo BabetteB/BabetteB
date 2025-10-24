@@ -17,14 +17,14 @@
 - Visualizing workflows
 - Dynamic docs & automation
 
-## Tech Stack 🧰
+### Tech Stack 🧰
 
 > I pick up new tools quickly—if a language or platform fits the job, I’ll learn it.
 
-### Languages & Frameworks
+#### Languages & Frameworks
 `C#` · `.NET / ASP.NET` · `TypeScript` · `Angular` · `Go` · `Python` · `Java` · `Kotlin` · `HTML/CSS` · `SQL` · `PowerShell` · `Bash` · `PlantUML (PUML)` · `XML` · `XAML` · `YML`
 
-## Philosophy 🪐
+### Philosophy 🪐
 
 - Architects should program more
 - The most important and under-appreciated quality requirement is maintainability
