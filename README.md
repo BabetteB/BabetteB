@@ -8,18 +8,12 @@
 
 - **ArchLens** — static analysis for multi-level dependency graphs
 
-### What I love to nerd with 🔍
+### Interests 🔍
 
-- Reproducibility (Docker, scripts over docs)  
-- CI/CD & IaC
-- Quality by default (clean code, tests, static analysis tools)  
-- Architecture (visualising architecture for multiple audiences, making architecture dynamic docs)
-
-### Interests 🧵
-
+- Architecture
 - Clean code & maintainability  
-- Making the maintainable way the **easy** way  
-- Infrastructure as Code  
+- Making the maintainable way the **easy** way & quality by default
+- CI/CD & IaC / Reproducibility
 - Visualizing workflows
 - Dynamic docs & automation
 
