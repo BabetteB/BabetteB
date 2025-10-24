@@ -1,8 +1,6 @@
 <!-- Profile header -->
 <h1 align="center">Hi, I’m Babette 👋</h1>
 
-## About me 🧭
-
 - I’m studying to become a system architect; Currently I mostly build with .NET/C# + Angular and pipeline + configuring code analysis tools 
 - Recurring Teaching Assistant in mobile app dev. I care about extensive feedback, and that the students learn to argue about what they are doing
 
